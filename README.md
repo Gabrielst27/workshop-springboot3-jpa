@@ -14,3 +14,10 @@ A aplicação consiste em um banco de dados web que relaciona pedidos de compra 
 
 # Layout
 ![Layout](https://github.com/Gabrielst27/workshop-springboot3-jpa/blob/main/Layout.png)
+
+# Testando a aplicação
+## Recursos necessários
+Spring Tool Suite 4; JDK 17 (LTS); Git Bash
+
+## Clonando o projeto
+Abra o terminal Git Bash na pasta em que deseja clonar o projeto e digite o seguinte comando: git clone git@github.com:Gabrielst27/workshop-springboot3-jpa.git
