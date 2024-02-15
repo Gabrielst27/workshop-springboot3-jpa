@@ -38,3 +38,5 @@ Após descobrir a porta na qual a aplicação está localizada, basta pesquisar 
 Após pesquisar o caminho no navegador, será aberta a página do console H2. Preencha o formulário exatamente como mostra a imagem a seguir, e depois clique em "Connect".
 ![Conectando](https://github.com/Gabrielst27/workshop-springboot3-jpa/blob/main/Conectando.png)
 Lembrando que as informações de preenchimento do formulário acima podem ser encontradas em src/main/resources/application.properties. Feito isso, você já terá acesso ao banco de dados, onde terão alguns dados exemplo pré-definidos
+
+OBS: O projeto foi desenvolvido através do curso de Java do professor Nélio Alves, pela plataforma da Udemy.
