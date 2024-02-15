@@ -14,29 +14,3 @@ A aplicação consiste em um banco de dados web que relaciona pedidos de compra 
 
 # Layout
 ![Layout](https://github.com/Gabrielst27/workshop-springboot3-jpa/blob/main/Layout.png)
-
-# Testando a aplicação
-## Recursos necessários
-Spring Tool Suite 4; JDK 17 (LTS); Git Bash
-
-## Clonando o projeto
-Abra o terminal Git Bash na pasta em que deseja clonar o projeto e digite o seguinte comando: git clone git@github.com:Gabrielst27/workshop-springboot3-jpa.git
-
-## Subindo a aplicação
-Após iniciar o Spring Tool Suíte e abrir a pasta do projeto que foi clonada, clique no seguinte botão:
-![Subindo a aplicação](https://github.com/Gabrielst27/workshop-springboot3-jpa/blob/main/Subindo%20a%20aplica%C3%A7%C3%A3o.png)
-
-## Localizando a porta
-Feito isso, a aplicação começará a ser preparada para subir ao servidor da máquina, e uma seta verde apontando para cima irá aparecer abaixo de "local". Ao lado da seta estará o nome da workshop na qual o projeto está contido ("course"), e ao lado, estará a porta na qual a aplicação está localizada. Também é possível descobrir a porta abrindo a janela de console e procurando o retorno "Tomcat started on port...", como mostra a imagem abaixo:
-![Localizando a porta](https://github.com/Gabrielst27/workshop-springboot3-jpa/blob/main/Localizando%20a%20porta.png)
-
-## Pesquisando o caminho da aplicação
-Após descobrir a porta na qual a aplicação está localizada, basta pesquisar o caminho na seguinte formatação: localhost:porta/h2-console
-![Pesquisando o caminho](https://github.com/Gabrielst27/workshop-springboot3-jpa/blob/main/Pesquisando%20o%20caminho.png)
-
-## Se conectando ao H2-Console
-Após pesquisar o caminho no navegador, será aberta a página do console H2. Preencha o formulário exatamente como mostra a imagem a seguir, e depois clique em "Connect".
-![Conectando](https://github.com/Gabrielst27/workshop-springboot3-jpa/blob/main/Conectando.png)
-Lembrando que as informações de preenchimento do formulário acima podem ser encontradas em src/main/resources/application.properties. Feito isso, você já terá acesso ao banco de dados, onde terão alguns dados exemplo pré-definidos
-
-OBS: O projeto foi desenvolvido através do curso de Java do professor Nélio Alves, pela plataforma da Udemy.
