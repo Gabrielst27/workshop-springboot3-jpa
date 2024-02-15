@@ -1,0 +1,23 @@
+[33mc208d3a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Config fix
+[33m7146735[m[33m ([m[1;31morigin/main[m[33m)[m Exception handling, update
+[33mbfa2b5e[m Exception handling, delete
+[33ma47ec76[m Exception handling, findById
+[33me9ac401[m User update
+[33m13efdb4[m User delete
+[33m519649b[m User insert
+[33m3048404[m subTotal and total methods
+[33mcc06cbd[m Payment, OneToOne association
+[33mddad72c[m Product-OrderItem OneToMany association
+[33m13e2117[m OrderItem, ManyToMany association (p2)
+[33m487825d[m OrderItem, ManyToMany association (p1)
+[33m54d7334[m ManyToMany Association with JoinTable
+[33ma403a2a[m Product
+[33m01006de[m Category
+[33mfc1d416[m OrderStatus enum
+[33m1e501c7[m Order, Instant, ISO 8601 (p2)
+[33mdf36fc6[m Order, Instant, ISO 8601 (p1)
+[33m25dc140[m Service layer, component registration
+[33m8053b1a[m JPA repository, dependency injection, database seeding
+[33mb11f1d7[m H2 database, test profile, JPA
+[33m63931f8[m User entity and resource
+[33mbb7ab27[m Project created
